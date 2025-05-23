@@ -3,9 +3,9 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "A for Apple now creates billing account and consumes kafka",
+  "name": "A for Apple now creates billing account, consumes kafka test",
   "address": "Manchester",
-  "email": "a@c_newe.com",
+  "email": "a@c_newww.com",
   "dateOfBirth": "2004-12-12",
   "registeredDate": "2009-12-25"
 }
